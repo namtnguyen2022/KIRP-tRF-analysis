@@ -1,0 +1,6 @@
+Candidate tRF	Evidence category	Tumor direction	Key supporting evidence	Interpretation
+tRF-23-79MP9P9MDD	Regulatory candidate	Down	Anticorrelated with MET: r = −0.380, FDR = 9.5×10⁻⁸; RNA22 MET 3ʹUTR pos. 522, ΔG = −19.0 kcal/mol, p = 0.036	Candidate tRF–MET regulatory interaction
+tRF-23-7SIR3DR2DV	Internal discrimination / stage	Down	AUC = 0.949; stage FDR = 0.018; requires external validation	Strong internal tumor-normal discrimination; stage-associated in primary-diagnosis analysis
+tRF-22-7SIRMM121	Internal discrimination / stage	Down	AUC = 0.929; stage FDR = 7.7×10⁻⁴	Candidate internal discrimination / stage-associated tRF
+tRF-22-7SERML921	Internal discrimination / stage	Down	AUC = 0.901; stage FDR = 0.011	Candidate internal discrimination / stage-associated tRF
+tRF-30-81PV6RRNLNK8	Exploratory survival	Down	Univariable Cox HR = 1.16, 95% CI 1.06–1.28; FDR = 0.033ᵃ	Exploratory survival-associated tRF

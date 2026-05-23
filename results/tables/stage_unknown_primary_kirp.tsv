@@ -1,0 +1,31 @@
+patient_id	age_at_diagnosis_years	sex	race	vital_status	primary_diagnosis	morphology	year_of_diagnosis	ajcc_pathologic_stage	ajcc_clinical_stage	ajcc_pathologic_t	ajcc_pathologic_n	ajcc_pathologic_m	ajcc_clinical_t	ajcc_clinical_n	ajcc_clinical_m	uicc_pathologic_stage	tumor_grade	classification_of_tumor	tissue_origin	site	prior_malignancy	synchronous_malignancy	progression_or_recurrence	residual_disease	last_known_disease_status	days_to_diagnosis	days_to_last_follow_up	days_to_death	has_trf_tumor	has_mrna_tumor	has_trf_normal	has_mrna_normal
+TCGA-5P-A9JV	49.2	male	white	Alive	Papillary adenocarcinoma, NOS	8260/3	2005	NA	NA	T1a	NX	NA	NA	NA	MX	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	Yes	NA	NA	NA	0	2043	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-5P-A9JW	64.5	male	white	Alive	Papillary adenocarcinoma, NOS	8260/3	2006	NA	NA	T1a	NX	MX	NA	NA	MX	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	3241	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-5P-A9JY	79.1	male	white	Dead	Papillary adenocarcinoma, NOS	8260/3	2006	NA	NA	T2	NX	MX	NA	NA	NA	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	1508	1508	TRUE	TRUE	FALSE	FALSE
+TCGA-5P-A9JZ	51.7	female	white	Alive	Papillary adenocarcinoma, NOS	8260/3	2006	NA	NA	T1b	NX	NA	NA	NA	MX	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	2744	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-5P-A9K0	75.1	male	white	Alive	Papillary adenocarcinoma, NOS	8260/3	2007	NA	NA	T1a	NX	MX	NA	NA	MX	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	677	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-5P-A9K2	62.9	male	white	Alive	Papillary adenocarcinoma, NOS	8260/3	2007	NA	NA	T1b	NX	MX	NA	NA	MX	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	2392	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-5P-A9K3	59.8	male	white	Dead	Papillary adenocarcinoma, NOS	8260/3	2007	NA	NA	T2	NX	MX	NA	NA	MX	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	471	471	TRUE	TRUE	FALSE	FALSE
+TCGA-5P-A9K4	54.7	male	white	Alive	Papillary adenocarcinoma, NOS	8260/3	2008	NA	NA	T1b	NX	MX	NA	NA	MX	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	2184	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-5P-A9K6	64	male	white	Alive	Papillary adenocarcinoma, NOS	8260/3	2009	NA	NA	T1a	NX	MX	NA	NA	MX	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	1914	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-5P-A9K8	51.7	female	white	Alive	Papillary adenocarcinoma, NOS	8260/3	2010	NA	NA	T3a	NX	MX	NA	NA	MX	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	1309	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-5P-A9K9	59.1	female	white	Dead	Papillary adenocarcinoma, NOS	8260/3	2011	NA	NA	T3a	N2	MX	NA	NA	M0	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	589	589	TRUE	TRUE	FALSE	FALSE
+TCGA-5P-A9KA	61.7	male	white	Alive	Papillary adenocarcinoma, NOS	8260/3	2013	NA	NA	T1a	NX	MX	NA	NA	MX	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	395	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-5P-A9KC	52	female	white	Alive	Papillary adenocarcinoma, NOS	8260/3	2013	NA	NA	T1b	NX	MX	NA	NA	MX	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	377	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-5P-A9KE	70.7	male	white	Alive	Papillary adenocarcinoma, NOS	8260/3	2011	NA	Stage I	T1b	NX	M0	T1	N0	M0	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	824	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-5P-A9KF	53.7	male	white	Alive	Papillary adenocarcinoma, NOS	8260/3	2011	NA	Stage I	T1a	N0	MX	T1	N0	M0	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	845	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-5P-A9KH	77.2	male	white	Alive	Papillary adenocarcinoma, NOS	8260/3	2005	NA	NA	T1a	NX	MX	NA	NA	MX	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	2051	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-A4-7286	42.8	male	white	Alive	Papillary adenocarcinoma, NOS	8260/3	2011	NA	Stage I	T3a	NX	NA	T1	N0	M0	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	554	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-A4-7288	71.9	female	white	Alive	Papillary adenocarcinoma, NOS	8260/3	2008	NA	Stage I	T1a	NX	MX	T1	N0	M0	NA	NA	primary	Kidney, NOS	Kidney, NOS	yes	No	NA	NA	NA	0	1857	NA	TRUE	TRUE	TRUE	FALSE
+TCGA-A4-7732	55.4	male	black or african american	Alive	Papillary adenocarcinoma, NOS	8260/3	2011	NA	Stage II	T2a	NX	MX	T2	N0	M0	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	582	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-AL-3467	54.2	female	white	Alive	Papillary adenocarcinoma, NOS	8260/3	2005	NA	Stage I	T1b	NX	M0	T1	N0	M0	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	2135	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-AL-3472	57.9	male	black or african american	Alive	Papillary adenocarcinoma, NOS	8260/3	2008	NA	Stage II	T2	N0	M0	T2	N0	M0	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	2029	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-B9-4114	49.3	male	black or african american	Alive	Papillary adenocarcinoma, NOS	8260/3	2009	NA	Stage IV	T2	NX	NA	T2	N0	M1	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	857	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-B9-4116	75.8	female	black or african american	Alive	Papillary adenocarcinoma, NOS	8260/3	2010	NA	Stage II	T2a	NX	NA	T2a	N0	M0	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	627	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-B9-4117	48.2	female	black or african american	Alive	Papillary adenocarcinoma, NOS	8260/3	2009	NA	Stage II	T2	NX	NA	T2	NX	M0	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	14	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-B9-4617	41.2	male	black or african american	Alive	Papillary adenocarcinoma, NOS	8260/3	2010	NA	Stage I	T1a	NX	M0	T1a	N0	M0	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	35	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-B9-5156	51.6	male	white	Alive	Papillary adenocarcinoma, NOS	8260/3	2010	NA	Stage I	T1a	NX	NA	T1a	N0	M0	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	1338	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-HE-A5NJ	NA	male	not reported	Alive	Papillary adenocarcinoma, NOS	8260/3	NA	NA	NA	T1b	NX	M0	NA	NA	M0	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	NA	1726	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-HE-A5NK	NA	male	not reported	Alive	Papillary adenocarcinoma, NOS	8260/3	NA	NA	NA	T1b	NX	M0	NA	NA	M0	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	NA	2228	NA	TRUE	TRUE	FALSE	FALSE
+TCGA-IA-A83S	81.3	male	white	Dead	Papillary adenocarcinoma, NOS	8260/3	2003	NA	NA	TX	NX	MX	NA	NA	NA	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	2609	2609	TRUE	TRUE	FALSE	FALSE
+TCGA-IA-A83T	80.6	male	white	Dead	Papillary adenocarcinoma, NOS	8260/3	2005	NA	NA	TX	NX	MX	NA	NA	NA	NA	NA	primary	Kidney, NOS	Kidney, NOS	no	No	NA	NA	NA	0	2684	2684	TRUE	TRUE	FALSE	FALSE

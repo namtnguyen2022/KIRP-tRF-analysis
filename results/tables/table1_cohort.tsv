@@ -1,0 +1,25 @@
+Characteristic	Value
+Sample availability	
+  tRF data: tumor / solid normal	291 / 34
+  mRNA data: tumor / solid normal	290 / 32
+  Matched tRF+mRNA: tumor / solid normal	290 / 32
+Patients with clinical data, n	291
+Age at diagnosis, median (IQR), years	61 (IQR: 54–71)
+Sex, n (%)	
+  Male	214 (73.5%)
+  Female	77 (26.5%)
+Race/ethnicity, n (%)	
+  White	207 (71.1%)
+  Black or African American	61 (21.0%)
+  Asian	6 (2.1%)
+  Other	2 (0.7%)
+  Not reported / Unknown	15 (5.2%)
+AJCC pathologic stage, n (%)	
+  Stage I	173 (66.3%)
+  Stage II	21 (8.0%)
+  Stage III	52 (19.9%)
+  Stage IV	15 (5.7%)
+  Not reported	30 (10.3%)
+Overall survival data available, n	291
+Death events, n (%)	44 (15.1%)
+Median follow-up, months	25.2
