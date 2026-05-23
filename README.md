@@ -143,7 +143,7 @@ Run the scripts in the following order:
 
 ## Citation
 
-If you use these scripts, please cite the manuscript (citation to be updated upon publication).
+If you use these scripts, please cite the manuscript or github repo.
 
 ## License
 
